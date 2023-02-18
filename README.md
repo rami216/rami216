@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working At INATCO COMPANY **as ASP.net developer**
 
+- 🌱 I'm currently learning Microsoft Azure Artificial Intelligence Fundamentals: AI-900
+
 - 📫 How to reach me **chamseddinerami@gmail.com**
 
 - ⚡ Fun fact **I think im Funny**
