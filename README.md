@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rami Shamseddin</h1>
 <h3 align="center">A passionate Game Developer from LEBANON</h3>
 
-- 🔭 I’m currently working At INATCO COMPANY **as ASP.net developer**
+- 🔭 I’m currently working At CFD ASSOCIATION **as IT SPECIALIST**
 
-- 🌱 I'm currently learning Microsoft Azure Artificial Intelligence Fundamentals: AI-900
+- 🌱 Knwolege in Machine learning(Scikit-learn,Tensorflow,Keras)
 
 - 📫 How to reach me **chamseddinerami@gmail.com**
 
