@@ -114,12 +114,11 @@ It combines AI-assisted website generation with database integration, so generat
 
 ---
 
-## Published Games
+## Published Game
 
 | Game | Platform |
 |---|---|
-| [World War 2: Defending Battle](https://play.google.com/store/apps/details?id=com.rsGaming.WorldWar2Defendingbattle) | Google Play |
-| [Scream Hunter](https://play.google.com/store/apps/details?id=com.rsgaming.screamhunter) | Google Play |
+| [XairY](https://play.google.com/store/apps/details?id=com.tikolabs.XairY) | Google Play |
 
 ---
 
